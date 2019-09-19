@@ -29,10 +29,10 @@ The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their 
 A table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images)
 
 ### Project Details
-Your tasks in this project are as follows:
+Tasks in this project are as follows:
 
 Data wrangling, which consists of:
-Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+Gathering data 
 Assessing data
 Cleaning data
 Storing, analyzing, and visualizing your wrangled data
